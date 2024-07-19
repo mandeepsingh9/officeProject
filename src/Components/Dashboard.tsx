@@ -1,6 +1,6 @@
 
 import styled from 'styled-components'
-import DepositeInstruction from './DepositeInstruction'
+// import DepositeInstruction from './DepositeInstruction'
 import Deposite from './Deposite'
 const H1=styled.section`
   font-size: 30px;
