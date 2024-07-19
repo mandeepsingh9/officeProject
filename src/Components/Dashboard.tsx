@@ -9,7 +9,7 @@ const Dashboard = () => {
   return (
     <div className='Deposite'>
         <H1>New Deposit</H1>
-        <DepositeInstruction/>
+        {/* <DepositeInstruction/> */}
         <Deposite/>
     </div>
   )
