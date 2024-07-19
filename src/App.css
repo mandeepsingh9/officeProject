@@ -88,11 +88,14 @@ background: linear-gradient(24deg, rgba(10,101,233,1) 0%, rgba(46,232,60,1) 100%
     justify-content: space-between;
 }
 .FormChild div input{
-    width: 100%;
+    width: 99%;
     height: 30px;
     border-radius: 10px;
     border: 1px solid white;
     background: transparent;
+    color: white;
+    padding-left: 10px;
+    
 }
 
 .FormChild span{
